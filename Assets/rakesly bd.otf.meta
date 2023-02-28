@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9e991a9da2420b34b89e934f4e331900
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rakesly
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d387fabe4d0bcb4da7042515db6a4bb, type: 3}
+  - {fileID: 12800000, guid: 68b16392d20c7f8438ead3de424d6d53, type: 3}
+  - {fileID: 12800000, guid: 48e053f1e212c5a4480d721df3319c74, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
